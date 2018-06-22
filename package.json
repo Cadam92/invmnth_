@@ -1,0 +1,29 @@
+{
+  "name": "invmnth2018",
+  "version": "1.0.0",
+  "description": "Innovation Month mobile site",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cadam92/invmnth_.git"
+  },
+  "keywords": [
+    "innovation",
+    "month",
+    "innovation",
+    "digital",
+    "innovation"
+  ],
+  "author": "Caden Adam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cadam92/invmnth_/issues"
+  },
+  "homepage": "https://github.com/Cadam92/invmnth_#readme",
+  "devDependencies": {
+    "siimple": "^3.1.0-beta.4"
+  }
+}
